@@ -8,17 +8,18 @@ I'm bridging technical implementation with human-centered design, focusing on ap
 
 ## Current Focus
 
-- Healthcare AI and clinical decision support systems
+- Healthcare Data Analytics & AI and clinical decision support systems
 - Human-computer interaction and accessibility
 - Machine learning interpretability and ethical AI design
 - Full-stack development with modern frameworks
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, Python, C++, HTML/CSS  
+**Languages:** JavaScript, TypeScript, Python, C++, HTML/CSS
+**Databases:** SQL, DuckDB, MySQL
 **Frameworks:** React, Angular, Node.js, Flask, Tailwind CSS  
 **AI/ML:** PyTorch3D, OpenCV, scikit-learn, XGBoost, SHAP  
-**Tools:** Git, Postman, Netlify, AWS (learning)
+**Tools:** Git, Postman, Netlify, AWS (learning), Tableau, PowerBI, Excel
 
 ## Featured Projects
 
