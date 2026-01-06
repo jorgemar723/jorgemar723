@@ -16,9 +16,13 @@ I'm bridging technical implementation with human-centered design, focusing on ap
 ## Technical Skills
 
 **Languages:** JavaScript, TypeScript, Python, C++, HTML/CSS
+
 **Databases:** SQL, DuckDB, MySQL
+
 **Frameworks:** React, Angular, Node.js, Flask, Tailwind CSS  
+
 **AI/ML:** PyTorch3D, OpenCV, scikit-learn, XGBoost, SHAP  
+
 **Tools:** Git, Postman, Netlify, AWS (learning), Tableau, PowerBI, Excel
 
 ## Featured Projects
