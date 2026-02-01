@@ -1,36 +1,43 @@
 # Jorge Martinez-Lopez
 
-Computer Science & Psychology student with minors in Applied Mathematics and Data Analytics at Texas State University, graduating May 2026. Passionate about building AI-powered healthcare technology that augments human decision-making and improves accessibility.
+Computer Science & Psychology student with minors in Applied Mathematics and Data Analytics at Texas State University, graduating May 2026. Focused on healthcare data analytics, health informatics, and building data-driven systems that support clinical, administrative, and public-sector decision-making.
 
 ## About Me
 
-I'm bridging technical implementation with human-centered design, focusing on applications where AI can enhance rather than replace human expertise. My interdisciplinary background allows me to approach technology development with both technical rigor and understanding of user needs.
+I work at the intersection of technology, data, and health systems. My background in computer science and psychology allows me to translate complex datasets into insights that are meaningful for clinicians, administrators, and policymakers. I’m especially interested in mental health analytics, healthcare data quality, and ethical, interpretable decision-support systems.
 
 ## Current Focus
 
-- Healthcare Data Analytics & AI and clinical decision support systems
-- Human-computer interaction and accessibility
-- Machine learning interpretability and ethical AI design
-- Full-stack development with modern frameworks
+- Healthcare data analytics and health informatics
+- Mental health and population health analysis
+- Data quality, governance, and interoperability (EHR / FHIR concepts)
+- SQL-based analytics, reporting, and stakeholder-ready dashboards
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, Python, C++, HTML/CSS
+**Data & Analytics:** SQL, Excel (PivotTables, Power Query), Power BI, Tableau, DuckDB
 
-**Databases:** SQL, DuckDB, MySQL
+**Programming:** Python, C++, JavaScript, HTML/CSS
 
-**Frameworks:** React, Angular, Node.js, Flask, Tailwind CSS  
+**FStatistics & ML:** Regression modeling, scikit-learn, XGBoost, SHAP
 
 **AI/ML:** PyTorch3D, OpenCV, scikit-learn, XGBoost, SHAP  
 
-**Tools:** Git, Postman, Netlify, AWS (learning), Tableau, PowerBI, Excel
+**Healthcare Systems:** EHR concepts, HIPAA compliance, data quality metrics
+
+**Tools:** Git/GitHub, Jupyter Notebooks, VS Code
+
 
 ## Featured Projects
 
-**[3D Object Reconstruction](https://github.com/jorgemar723/3DObjectReconstruction)** - Multi-view reconstruction pipeline using computer vision techniques  
-**[Midnight Automotive](https://github.com/jorgemar723/midnight-automotive)** - Full-stack Angular application deployed to production  
-**[E-Commerce Sales Prediction](https://github.com/jorgemar723/ecommerce-sales-prediction)** - ML forecasting pipeline with interpretability features  
-**[Mental Health Assessment Tool](https://github.com/jorgemar723/interactive-mental-health-tool)** - Healthcare UX application informed by cognitive psychology principles
+**[Mental Health Screening Data Analysis (NHANES)](https://github.com/jorgemar723/mental-health-screening-analysis)** - Analyzed national mental health survey data using SQL and R to identify predictors of untreated depression and disparities in care.
+
+**[Midnight Automotive](https://github.com/jorgemar723/midnight-automotive)** - Full-stack Angular application deployed to production with dynamic services and booking workflows.
+
+**[Healthcare Data Quality Analysis](https://github.com/jorgemar723/healthcare-data-quality-analysis)** - Audited synthetic EHR data extracted from FHIR bundles to identify missing fields, duplicates, and structural data quality issues.
+
+**[Mental Health Assessment Tool](https://github.com/jorgemar723/interactive-mental-health-tool)** - Built a PHQ-9 and GAD-7 screening tool with automated scoring and an accessible UI informed by cognitive psychology principles.
+
 
 ## Connect
 
@@ -39,4 +46,4 @@ I'm bridging technical implementation with human-centered design, focusing on ap
 
 ---
 
-*Bilingual (English/Spanish) • CITI Certified for Human Subjects Research • Open to opportunities in healthcare technology and AI*
+*Bilingual (English/Spanish) • CITI Certified for Human Subjects Research • Johns Hopkins Medical Office Manager Professional Certificate • Google Data Analytics Certificate • Open to opportunities in healthcare analytics, public-sector data, and health informatics*
