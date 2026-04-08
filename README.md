@@ -1,31 +1,35 @@
 # Jorge Martinez-Lopez
 
-Computer Science & Psychology student with minors in Applied Mathematics and Data Analytics at Texas State University, graduating May 2026. Focused on healthcare data analytics, health informatics, and building data-driven systems that support clinical, administrative, and public-sector decision-making.
+Computer Science & Psychology student at Texas State University (May 2026), with minors in Applied Mathematics and Data Analytics.
+
+I’m interested in building data-driven systems, especially in healthcare and public-sector contexts where data quality, reliability, and real-world impact matter.
 
 ## About Me
 
-I work at the intersection of technology, data, and health systems. My background in computer science and psychology allows me to translate complex datasets into insights that are meaningful for clinicians, administrators, and policymakers. I’m especially interested in mental health analytics, healthcare data quality, and ethical, interpretable decision-support systems.
+I work at the intersection of data, systems, and healthcare. My background in computer science and psychology helps me think about both the technical side of building pipelines and the human side of how data is used in decision-making.
+
+Most of my work focuses on turning messy, real-world datasets into something structured, analyzable, and actually useful.
 
 ## Current Focus
 
-- Healthcare data analytics and health informatics
-- Mental health and population health analysis
-- Data quality, governance, and interoperability (EHR / FHIR concepts)
-- SQL-based analytics, reporting, and stakeholder-ready dashboards
+- Building data pipelines and backend systems (Python, SQL)
+- Healthcare data analytics and health informatics (EHR / FHIR concepts)
+- Data quality, validation, and reliability in real-world datasets
+- Mental health and population-level data analysis
 
 ## Technical Skills
 
-**Data & Analytics:** SQL, Excel (PivotTables, Power Query), Power BI, Tableau, DuckDB
+**Programming:** Python, C++, JavaScript, HTML/CSS  
 
-**Programming:** Python, C++, JavaScript, HTML/CSS
+**Data & Analytics:** SQL, Excel (PivotTables, Power Query), Tableau, Power BI, DuckDB  
 
-**FStatistics & ML:** Regression modeling, scikit-learn, XGBoost, SHAP
+**Machine Learning:** scikit-learn, XGBoost, SHAP, regression modeling  
 
-**AI/ML:** PyTorch3D, OpenCV, scikit-learn, XGBoost, SHAP  
+**Computer Vision & AI:** PyTorch3D, OpenCV  
 
-**Healthcare Systems:** EHR concepts, HIPAA compliance, data quality metrics
+**Healthcare Data Systems:** EHR concepts, FHIR, HIPAA compliance, data quality validation  
 
-**Tools:** Git/GitHub, Jupyter Notebooks, VS Code
+**Tools:** Git/GitHub, Jupyter Notebooks, VS Code  
 
 
 ## Featured Projects
@@ -35,8 +39,6 @@ I work at the intersection of technology, data, and health systems. My backgroun
 **[Midnight Automotive](https://github.com/jorgemar723/midnight-automotive)** - Full-stack Angular application deployed to production with dynamic services and booking workflows.
 
 **[Healthcare Data Quality Analysis](https://github.com/jorgemar723/healthcare-data-quality-analysis)** - Audited synthetic EHR data extracted from FHIR bundles to identify missing fields, duplicates, and structural data quality issues.
-
-**[Mental Health Assessment Tool](https://github.com/jorgemar723/interactive-mental-health-tool)** - Built a PHQ-9 and GAD-7 screening tool with automated scoring and an accessible UI informed by cognitive psychology principles.
 
 
 ## Connect
