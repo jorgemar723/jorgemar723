@@ -1,6 +1,6 @@
 # Jorge Martinez-Lopez
 
-Computer Science & Psychology student at Texas State University (May 2026), with minors in Applied Mathematics and Data Analytics.
+Computer Science & Psychology Texas State University alumnus (May 2026), with minors in Applied Mathematics and Data Analytics.
 
 I’m interested in building data-driven systems, especially in healthcare and public-sector contexts where data quality, reliability, and real-world impact matter.
 
